@@ -1,5 +1,6 @@
-🚀 AI Resume Matcher System
-An intelligent AI-powered system that matches resumes with job descriptions using Natural Language Processing (NLP) and Cosine Similarity to help recruiters find the best candidates efficiently.
+🚀 AI Resume Matcher System with job descriptions
+An intelligent AI-powered system that matches resumes with job descriptions using Natural Language Processing (NLP)
+and Cosine Similarity to help recruiters find the best candidates efficiently.
 
 📌 Features
 ✔️ Extracts text from PDF, DOCX, and TXT resumes
