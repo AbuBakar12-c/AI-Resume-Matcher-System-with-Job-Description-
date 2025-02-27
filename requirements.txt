@@ -1,1 +1,6 @@
-# pip install pandas numpy PyPDF2 pdfplumber python-docx
+pandas
+numpy
+PyPDF2
+pdfplumber
+python-docx
+
